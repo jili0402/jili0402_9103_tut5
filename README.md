@@ -32,7 +32,7 @@ User input is also mentioned in the main project requirements, and I think it is
 - **Coding technique discussion** 
    - *how this coding technique might help achieve or or contribute to the desired effect*
 
-According author's code, to create a multi-petal flower animation that continuously unfolds from the center. By adjusting variables like angleInitiale and angleLargeur, the petals expand and contract in a loop, giving the impression of perpetual blooming. User input, such as key presses, toggles features like rotation (rotation variable) or display of reference axes (repere variable), adding interactive elements to the animation. This approach utilizes code-driven animation and real-time adjustments to engage users and create captivating visuals.
+According author's code, to create a multi-petal flower animation that continuously unfolds from the center. A class named Petale is defined for drawing petals. The Petale class contains methods for drawing the appearance and animation of petals. Some mathematical calculations were also used to determine the position, size and animation of the petals. By adjusting variables like angleInitiale and angleLargeur, the petals expand and contract in a loop, giving the impression of perpetual blooming. User input, such as key presses, toggles features like rotation (rotation variable) or display of reference axes (repere variable), adding interactive elements to the animation. This approach utilizes code-driven animation and real-time adjustments to engage users and create captivating visuals.
 
 - **Images that showcasing the coding technique in action, along with a link to an example implementation** 
 
