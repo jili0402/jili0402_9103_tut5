@@ -43,8 +43,7 @@ According author's code, to create a multi-petal flower animation that continuou
 
 [The final generated animation](http://www.thibaultpetit.fr/ressources/flower.php)
 
-[The final generated code](www.thibaultpetit.fr/ressources/flower.php)
-
+**The final generated code unable to link, please by opening the final generate animation link after right-click to check or view the page source*
 
 
 
